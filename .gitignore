@@ -2,3 +2,8 @@
 Cargo.lock
 .claude/
 CLAUDE.md
+railnet-web/node_modules/
+railnet-web/dist/
+railnet-web/.astro/
+railnet-web/package-lock.json
+mnt/
