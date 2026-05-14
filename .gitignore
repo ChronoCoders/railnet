@@ -1,5 +1,6 @@
 /target/
 Cargo.lock
+build.log
 .claude/
 CLAUDE.md
 settrum-web/node_modules/
